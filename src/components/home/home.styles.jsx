@@ -125,7 +125,7 @@ export const Aboutopen = styled.div`
 `;
 
 export const HomeContainer = styled.div`
-  width: 99%;
+  width: 90%;
   height: 97vh;
   background-color: transparent;
   display: flex;

@@ -10,7 +10,7 @@ function App() {
   return (
     <Fragment>
       <Navigation />
-      <Home />
+      <Home />  
       <Skills />
       <Projects />
       <Contact />
